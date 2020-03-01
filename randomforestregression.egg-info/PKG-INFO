@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: randomforestregression
+Version: 0.1.0
+Summary: Package for predicting Remaining Useful Lifecycle(RUL) for 'Turbofan engine degradation simulation dataset' from NASA's open data portal usning RANDOM FOREST REGRESSION Algorithm
+Home-page: UNKNOWN
+Author: Abhishek R
+Author-email: abhishekraju@pluto7.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6.9
